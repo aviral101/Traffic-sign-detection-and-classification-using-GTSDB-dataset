@@ -1,6 +1,6 @@
 # Traffic sign detection and classification using GSTDB dataset
 
-Code 1 : Working code.
+Code 1 : Working code.  
 Code 2 : Faster RCNN code with neural network built from scratch. Inconsistent output.
 
 NOTE : The code might not open in some editors. Use Jupyter Notebook to open the code.
